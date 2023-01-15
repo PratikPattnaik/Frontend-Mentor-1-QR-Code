@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This is the first in the many challenges in www.frontendmentor.io . I will try my best to do as many of those challenges as I can starting with the very basics. I have gotten a hands-on experience of flexbox in CSS. 
 ### Screenshot
 
-![](./QRCode-FrontendMentor.png)
+![QRCode-FrontendMentor](https://user-images.githubusercontent.com/94002813/212538426-af9b677d-42b9-423a-80c7-87e54f9f899a.png)
 
 ### Links
 
